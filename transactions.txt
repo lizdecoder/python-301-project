@@ -1,0 +1,3 @@
+Withdrew: $200.0		 Account Balance: $ 800.5
+Withdrew: $400.0		 Account Balance: $ 400.5
+Depostied: $1400.0		 Account Balance: $ 1800.5
